@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Mapping Space="C-S" xmlns="http://schemas.microsoft.com/ado/2009/11/mapping/cs">
+  <EntityContainerMapping StorageEntityContainer="OutletApiBDModelStoreContainer" CdmEntityContainer="DBModel">
+    <EntitySetMapping Name="Prod_TipoProductos">
+      <EntityTypeMapping TypeName="OutletApiBDModel.Prod_TipoProductos">
+        <MappingFragment StoreEntitySet="Prod_TipoProductos">
+          <ScalarProperty Name="TipoProductoID" ColumnName="TipoProductoID" />
+          <ScalarProperty Name="Tipo" ColumnName="Tipo" />
+          <ScalarProperty Name="DescripcionTipoProducto" ColumnName="DescripcionTipoProducto" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+  </EntityContainerMapping>
+</Mapping>

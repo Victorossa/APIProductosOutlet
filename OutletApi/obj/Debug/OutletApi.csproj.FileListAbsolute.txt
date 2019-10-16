@@ -89,3 +89,10 @@ C:\Flutter\ProyAngular\SlnOutlet\OutletApi\obj\Debug\OutletApi.csprojAssemblyRef
 C:\Flutter\ProyAngular\SlnOutlet\OutletApi\obj\Debug\OutletApi.csproj.CopyComplete
 C:\Flutter\ProyAngular\SlnOutlet\OutletApi\obj\Debug\OutletApi.dll
 C:\Flutter\ProyAngular\SlnOutlet\OutletApi\obj\Debug\OutletApi.pdb
+C:\Flutter\ProyAngular\SlnOutlet\OutletApi\bin\EntityFramework.dll
+C:\Flutter\ProyAngular\SlnOutlet\OutletApi\bin\EntityFramework.SqlServer.dll
+C:\Flutter\ProyAngular\SlnOutlet\OutletApi\bin\System.Web.Cors.dll
+C:\Flutter\ProyAngular\SlnOutlet\OutletApi\bin\System.Web.Http.Cors.dll
+C:\Flutter\ProyAngular\SlnOutlet\OutletApi\bin\EntityFramework.xml
+C:\Flutter\ProyAngular\SlnOutlet\OutletApi\bin\EntityFramework.SqlServer.xml
+C:\Flutter\ProyAngular\SlnOutlet\OutletApi\bin\System.Web.Http.Cors.xml
